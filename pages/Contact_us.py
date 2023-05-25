@@ -4,6 +4,7 @@ from Send_mail import send_email
 
 import pandas
 
+
 df = pandas.read_csv("topics.csv")
 
 
